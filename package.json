@@ -12,6 +12,9 @@
   },
   "author": "Farruco Sanjurjo",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "bugs": {
     "url": "https://github.com/madtrick/spr-assign/issues"
   },
